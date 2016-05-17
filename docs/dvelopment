@@ -1,0 +1,6 @@
+New pledges
+ 1. create 2 tables tbl_new_pledges and tbl_new_pldege_payments
+ 2. import the excel sheet with list of people who have pledged
+ 3. tbl_new_pldege_payments ---id,amount,
+ 4. update codes from old pldeges
+ 5. FindAll in newpldeges with no code then inseert in hcpartners generating codes then update newpdleges
